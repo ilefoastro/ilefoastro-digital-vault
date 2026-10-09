@@ -16,5 +16,5 @@ status: "SYSTEM TEST LAYER - PUBLIC SANDBOX"
 
 ## System Test Note
 
-This file is a sample metadata record used to validate the build-time type-checking constraints of the Astro compile engine under ILEFOASTRO DIGITAL LEGACY LIMITED. Original master lineage registries are private and cloud-gated.
+This file is a sample metadata structure used to test the build-time type checking of the Astro site. All values are invented. Real family records are never stored in this repository.
 
